@@ -1,6 +1,4 @@
 #!/bin/bash
-
-echo"  ★彡հԵԵթ íղյҽcԵօɾ彡★"
 echo -e "\e[1;36m    B¡ทℯℛℴ₷ ðℯ ☪️ℴℛα☡óท"
 sleep 2.1
 echo ""
