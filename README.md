@@ -9,7 +9,7 @@ comandos a instalar
 <<<<<git clone https://github.com/07septiembre/http-injector3
 >>>> cd http-injector3
 << ls
->>> chmod 777 http-injector.sh
+>>> chmod 777 http-injector1.sh
 <<<< ls
 >>>>> bash http-injector.sh
 
